@@ -14,15 +14,15 @@ This repository contains my Python practice programs and notes as I learn progra
 
 ## 🚀 Topics Covered
 
-- Hello World
-- Variables
-- Input & Output
-- Data Types
-- Operators
-- Conditions
-- Loops
-- Functions
-- Lists
+- ✅ Hello World
+- ✅ Variables
+- ⏳ Input & Output
+- ⏳ Data Types
+- ⏳ Operators
+- ⏳ Conditions
+- ⏳ Loops
+- ⏳ Functions
+- ⏳ Lists
 
 ## 👨‍💻 Author
 

@@ -4,4 +4,3 @@ num2 = int(input("Enter second number: "))
 sum = num1 + num2
 
 print("Sum =", sum)
-10

@@ -16,9 +16,9 @@ This repository contains my Python practice programs and notes as I learn progra
 
 - ✅ Hello World
 - ✅ Variables
-- ⏳ Input & Output
-- ⏳ Data Types
-- ⏳ Operators
+- ✅ Input & Output
+- ✅ Data Types
+- ✅ Operators
 - ⏳ Conditions
 - ⏳ Loops
 - ⏳ Functions

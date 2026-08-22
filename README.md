@@ -90,8 +90,7 @@ python-basics/
 │   ├── sum_of_n_numbers.py
 │   └── factorial.py
 │
-├── 04_Functions/
-│   ├── README.md
+├── 04_Functions/ 
 │   ├── greet.py
 │   ├── addition.py
 │   ├── factorial_function.py

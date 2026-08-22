@@ -36,6 +36,13 @@ The goal is to write clean, well-organized Python programs while building a stro
 - Sum of N Numbers
 - Factorial
 
+
+## ✅ 04. Functions
+
+- Functions
+- Parameters
+- Arguments
+- Return Statement
 ---
 
 ## 📂 Repository Structure
